@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932953664159",
+    "firebase_url": "https://jokenpokemon-101b7.firebaseio.com",
+    "project_id": "jokenpokemon-101b7",
+    "storage_bucket": "jokenpokemon-101b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932953664159:android:a0727d3780f9fdc2",
+        "android_client_info": {
+          "package_name": "br.com.luiz.jokenpokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932953664159-63p4lnv19jna0d1p3b6kr8vt1kellhk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.luiz.jokenpokemon",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "932953664159-r5i0bdgghtm9g968o8jmpqjp3lk0ieb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLntS2eFTzYkDI1N_J60ImWvdwXCgPzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932953664159-r5i0bdgghtm9g968o8jmpqjp3lk0ieb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
